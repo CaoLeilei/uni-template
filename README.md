@@ -1,2 +1,19 @@
-# uni-template
-一个基于uniapp的小程序以及app的网页的快速开发模板
+# uni-project
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
